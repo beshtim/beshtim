@@ -1,5 +1,5 @@
 <a href="https://beshtim.github.io/" target="_blank">
-  <img src="https://github.com/beshtim/beshtim/blob/main/img.svg" width="100%">
+  <img src="https://github.com/beshtim/beshtim/blob/main/img.png" width="100%">
 </a>
 <!--
 **beshtim/beshtim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
